@@ -99,12 +99,12 @@ text-shadow: 4px 3px 0 black;}
 p {
   margin-top: 0;
   margin-bottom: 2rem;
-color: #020202;
+
 font-family: 'Manrope', sans-serif;
 font-size: 26px;
 letter-spacing: -1.8px;
 word-spacing: 0.4px;
-color: #000000;
+color: #001f3f;
 font-weight: normal;
 text-decoration: none solid rgb(68, 68, 68);
 font-style: normal;
@@ -9601,7 +9601,7 @@ font-size: 4 em;
 #xx
 {
 font-weight: lighter;
-color:#45B8AC;
+color:#85144b;
 font-family: 'Italianno', cursive;
 font-size: 25px;
 font-weight:400;
