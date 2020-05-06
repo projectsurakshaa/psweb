@@ -8844,14 +8844,14 @@ font-weight:400;
 font-family: 'Manrope', sans-serif;
 }
 h78{
-color:#F012BE;
+color:#001f3f;
 font-weight: 900;
 font-size:45px;
     letter-spacing: .025em;
     line-height: 1.2;
     margin: 0 0 .5em;
     text-transform: uppercase;
-text-shadow: 4px 3px 0 #fcfd7c;
+text-shadow: 4px 3px 0 #DDDDDD;
 font-family: "Poppins", Arial, sans-serif;
 }
 .ftco-footer-social li {
