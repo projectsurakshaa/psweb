@@ -8302,10 +8302,10 @@ background : #fbd341;
   font-weight: 800; }
 
 .slider-text p {
-color: #BC243C;
+color: #39CCCC
 
 text-shadow: 0.92px 0.93px 0 black;
-    font-size: 10em;
+    font-size: 11em;
 
 
     font-weight: 1000;
@@ -8884,7 +8884,7 @@ font-family: "Poppins", Arial, sans-serif;
     .footer-small-nav > li a:hover, .footer-small-nav > li a:focus {
       color: #4e9525; }
 b69{
-color:#DFCFBE;
+color:#009B77;
 font-family: "Poppins", Arial, sans-serif;
   font-size: 40px;
 }
